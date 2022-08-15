@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wandroid.iml" filepath="$PROJECT_DIR$/.idea/modules/Wandroid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wandroid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wandroid.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wandroid.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wandroid.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wandroid.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wandroid.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wandroid.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wandroid.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wan-android.iml" filepath="$PROJECT_DIR$/.idea/modules/Wan-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wan-android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wan-android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wan-android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wan-android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wan-android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wan-android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Wan-android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Wan-android.app.unitTest.iml" />
     </modules>
   </component>
 </project>

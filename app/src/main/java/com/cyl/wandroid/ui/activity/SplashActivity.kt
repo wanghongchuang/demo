@@ -10,6 +10,8 @@ class SplashActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash)
 
+
+
         window.decorView.postDelayed({
             start(this@SplashActivity, MainActivity::class.java)
             finish()
