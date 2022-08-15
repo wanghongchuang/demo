@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.lygttpod:SuperTextView:2.4.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/83bbc4b9eeb4b558c3fa8db2d9c6eccc/jetified-SuperTextView-2.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/83bbc4b9eeb4b558c3fa8db2d9c6eccc/jetified-SuperTextView-2.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/83bbc4b9eeb4b558c3fa8db2d9c6eccc/jetified-SuperTextView-2.4.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/072359ae3b169df527cc25c20a6c3d56/jetified-SuperTextView-2.4.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/072359ae3b169df527cc25c20a6c3d56/jetified-SuperTextView-2.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/072359ae3b169df527cc25c20a6c3d56/jetified-SuperTextView-2.4.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lygttpod/SuperTextView/2.4.2/5f92614992f58e757492cad676f7263a0cb5dbd5/SuperTextView-2.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

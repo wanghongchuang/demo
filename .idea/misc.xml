@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/layer.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/shape_add_share_et_bg.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/shape_bottom_sheet_bg.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/shape_cursor.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/shape_load_dialog_circle.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/shape_login_et_bg.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/shape_login_gradient.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/shape_points_gradient.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/shape_register_gradient.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/shape_search_et_bg.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/shape_toast_error.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/shape_toast_normal.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/shape_todo_date_bg.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/shape_todo_item_bg.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/splash.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/drawable/tab_layout_bg.xml" value="0.14" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/activity_about_author.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/activity_add_share.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/activity_main.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/bottom_sheet_agent_web.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/dialog_loading.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/dialog_locate_tag_view.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/dialog_operate_tip.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/fragment_mine.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/item_about_author.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/item_home_banner.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/layout_empty_view.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/layout_home_item_view.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/layout_my_info.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/layout_search_history_view.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/tag_view.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/toast_layout.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/toolbar_activity.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/toolbar_fragment.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/toolbar_search_activity.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/layout/toolbar_todo_activity.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/menu/menu_home_bottom_navigation.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/TestAndroid/Wandroid-kotlin-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2745" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
